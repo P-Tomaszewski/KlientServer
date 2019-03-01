@@ -12,6 +12,8 @@ import java.util.*;
  *
  * @author s17579
  */
+
+//Patryk toams
 public class Serwer {
     private final static int Server_PORT = 4444;
     private final static String Name = "[Ser]";
